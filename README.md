@@ -1,20 +1,23 @@
+
 # 👋 Hi, I’m Kaif !!!!<br>
 <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYxODY0NTEsIm5iZiI6MTcxNjE4NjE1MSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTIwVDA2MjIzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVhNDMyMjU2MzVjY2JjYmIxYWEzZjI0NDg2OWNjZjE0MjkzY2MzMmM4NmE2ZTFkYmFjNjI0MmY2ZTdmZWMzMWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.bkzyKztDEBL6x0xIwpSQWfpbm2pL8SePueiFslMZqpY" width="600" height="300" /><br>
 
 👀AI/ML Engineer specializing in computer vision and NLP. I develop and deploy machine learning models using TensorFlow and PyTorch. Passionate about AI advancements, I thrive in dynamic, collaborative environments.<br>
 <img src="https://gifdb.com/images/high/ai-artificial-intelligence-human-robot-brain-pon8h9dclo1fl1u2.gif" width="480" height="271" /><br>
 
-🌱 I’m currently learning Natural language processing and how to not give a 💩<br>
+🌱 I’m currently learning Natural language processing and also other things like LLMs , GPTs , Vector databases etc . <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width = "300" height = "200" /><br>
 📫 You can reach me via instagram ( @im_kaifkhan )
-
+📫And likedin (@Kaif Ur Rahman Khan)
 
 
 ## 🌐 Socials:
 <a href="https://instagram.com/im_kaifkhan">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="200" height="200" />
-</a><br>
-
+</a>
+<a href="https://www.linkedin.com/in/kaif-ur-rahman-khan-54ba97222">
+	<img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" width="200" />
+	</a><br>
 
 # 💻 Tech Stack:
 ## Programming languages :
