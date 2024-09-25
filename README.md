@@ -2,7 +2,8 @@
 # 👋 Hi, I’m Kaif !!!!<br>
 <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYxODY0NTEsIm5iZiI6MTcxNjE4NjE1MSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTIwVDA2MjIzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVhNDMyMjU2MzVjY2JjYmIxYWEzZjI0NDg2OWNjZjE0MjkzY2MzMmM4NmE2ZTFkYmFjNjI0MmY2ZTdmZWMzMWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.bkzyKztDEBL6x0xIwpSQWfpbm2pL8SePueiFslMZqpY" width="600" height="300" /><br>
 
-👀AI/ML Engineer specializing in computer vision and NLP. I develop and deploy machine learning models using TensorFlow and PyTorch. Passionate about AI advancements, I thrive in dynamic, collaborative environments.<br>
+👀AI/ML Engineer specializing in computer vision and NLP.<br>
+I’m a lifelong learner 📚 who stumbled into AI/ML 🤖 while building a project to analyze my favorite sci-fi movies 🎥✨. Since then, I’ve been on a quest to understand how machines can learn from data 📊 and make predictions that can change the world 🌍. Whether it's developing algorithms that mimic human behavior 👤 or creating models that unravel complex datasets 🔍, my passion lies in transforming abstract concepts into tangible solutions 💡.<br>
 <img src="https://gifdb.com/images/high/ai-artificial-intelligence-human-robot-brain-pon8h9dclo1fl1u2.gif" width="480" height="271" /><br>
 
 🌱 I’m currently learning Natural language processing and also other things like LLMs , GPTs , Vector databases etc . <br>
@@ -43,9 +44,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kaif786khan&icon=5&color=8)](https://visitcount.itsvg.in)
