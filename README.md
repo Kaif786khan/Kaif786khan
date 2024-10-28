@@ -46,6 +46,6 @@ I’m a lifelong learner 📚 who stumbled into AI/ML 🤖 while building a proj
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kaif786khan&icon=5&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kaif786khan&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
