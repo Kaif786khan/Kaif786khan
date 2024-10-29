@@ -6,7 +6,7 @@
 I’m a lifelong learner 📚 who stumbled into AI/ML 🤖 while building a project to analyze my favorite sci-fi movies 🎥✨. Since then, I’ve been on a quest to understand how machines can learn from data 📊 and make predictions that can change the world 🌍. Whether it's developing algorithms that mimic human behavior 👤 or creating models that unravel complex datasets 🔍, my passion lies in transforming abstract concepts into tangible solutions 💡.<br>
 <img src="https://gifdb.com/images/high/ai-artificial-intelligence-human-robot-brain-pon8h9dclo1fl1u2.gif" width="480" height="271" /><br>
 
-🌱 I’m currently learning Natural language processing and also other things like LLMs , GPTs , Vector databases etc . <br>
+🌱 I plan to deepen my knowledge in advanced tech stacks, focusing on Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs). I aim to explore fine-tuning techniques and practical applications. <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width = "300" height = "200" /><br>
 📫 You can reach me via instagram ( @im_kaifkhan )
 📫And likedin (@Kaif Ur Rahman Khan)
