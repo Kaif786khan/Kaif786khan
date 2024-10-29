@@ -9,7 +9,7 @@ I’m a lifelong learner 📚 who stumbled into AI/ML 🤖 while building a proj
 🌱 I plan to deepen my knowledge in advanced tech stacks, focusing on Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs). I aim to explore fine-tuning techniques and practical applications. <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width = "300" height = "200" /><br>
 📫 You can reach me via instagram ( @im_kaifkhan )
-📫And likedin (@Kaif Ur Rahman Khan)
+📫And linkedin (@Kaif Ur Rahman Khan)
 
 
 ## 🌐 Socials:
